@@ -9,10 +9,10 @@ The assistant retrieves relevant university policies from a vector database and 
 ##  Live Demo
 
 ### Frontend (Vercel)
-[https://your-vercel-url.vercel.app](https://trueailab-rag-assistant-nine.vercel.app/)
+[My techverse university RAG Assitant]https://trueailab-rag-assistant-nine.vercel.app/)
 
 ### Backend API (Railway)
-[https://your-railway-url.up.railway.app/docs](https://web-production-eb849.up.railway.app/docs#/)
+[My Web Production Backend](https://web-production-eb849.up.railway.app/docs#/)
 
 ---
 
