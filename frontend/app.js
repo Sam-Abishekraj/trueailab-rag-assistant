@@ -1,5 +1,5 @@
 const API_URL =
-    "http://127.0.0.1:8000/api/chat";
+"https://web-production-eb849.up.railway.app/api/chat";
 
 const chatContainer =
     document.getElementById(
