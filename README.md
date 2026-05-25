@@ -71,7 +71,7 @@ Gemini API
    ↓
 Final Response
 
-## 🔄 RAG Workflow Explanation
+##  RAG Workflow Explanation
 
 The assistant follows a Retrieval-Augmented Generation (RAG) pipeline to generate grounded responses.
 
@@ -116,7 +116,7 @@ What if I am below that?
 
 The assistant understands contextual references.
 
-## 🔍 Embedding Strategy Explanation
+##  Embedding Strategy Explanation
 
 To enable semantic search and contextual retrieval:
 
@@ -133,7 +133,7 @@ When a user asks a question:
 
 This ensures semantically relevant and grounded answers.
 
-## 🎯 Similarity Search Explanation
+##  Similarity Search Explanation
 
 The project uses vector similarity search through **FAISS**.
 
@@ -148,7 +148,7 @@ Only the most relevant chunks are passed to Gemini.
 
 This minimizes hallucination and improves answer accuracy.
 
-## 🧩 Prompt Design Reasoning
+##  Prompt Design Reasoning
 
 The prompt was carefully designed to ensure accurate and grounded responses.
 
@@ -173,7 +173,7 @@ If relevant information is unavailable:
 
 The assistant avoids making assumptions.
 
-## 🔧 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone Repository
 
@@ -241,7 +241,7 @@ Open:
 http://localhost:5500
 ```
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Home Interface
 <img width="1918" height="1029" alt="image" src="https://github.com/user-attachments/assets/b834b9bd-25ed-469f-92d2-fcba7d33bbdd" />
