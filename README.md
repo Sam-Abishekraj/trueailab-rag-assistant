@@ -1,4 +1,4 @@
-#  TechVerse University RAG Assistant
+#  TechVerse University RAG Assistant Project
 
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot designed to answer university policy-related questions using contextual document retrieval and Large Language Model (LLM) reasoning.
 
